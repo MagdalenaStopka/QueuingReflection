@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QueuingLibrary", "QueuingLibrary\QueuingLibrary.csproj", "{F15D2A37-8C07-4B1E-9D70-CB3A061063A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TescikQueuing", "TescikQueuing\TescikQueuing.csproj", "{2761920E-4032-4DCA-A832-7878B3E2A945}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F15D2A37-8C07-4B1E-9D70-CB3A061063A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F15D2A37-8C07-4B1E-9D70-CB3A061063A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F15D2A37-8C07-4B1E-9D70-CB3A061063A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F15D2A37-8C07-4B1E-9D70-CB3A061063A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2761920E-4032-4DCA-A832-7878B3E2A945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2761920E-4032-4DCA-A832-7878B3E2A945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2761920E-4032-4DCA-A832-7878B3E2A945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2761920E-4032-4DCA-A832-7878B3E2A945}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BB65F43-D633-45D2-AABF-7E947DA4AA5C}
+	EndGlobalSection
+EndGlobal
